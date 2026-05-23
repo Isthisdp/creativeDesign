@@ -7,7 +7,6 @@ const navbar=document.querySelector('.navbar');
 menu.addEventListener('click',function(){
     navbar.classList.toggle('active');
 });
-/*Nav bar done*/ 
 
 setInterval(function(){
     i++;
